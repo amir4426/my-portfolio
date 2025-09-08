@@ -24,7 +24,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/my-portfolio.git]
+git clone [https://github.com/amir4426/my-portfolio]
 cd your-repo-name
 ````
 
