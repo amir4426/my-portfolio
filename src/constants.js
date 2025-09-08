@@ -52,7 +52,7 @@ export const SkillsInfo = [
     skills: [
       { name: "HTML", logo: htmlLogo },
       { name: "CSS", logo: cssLogo },
-      { name: "SASS", logo: sassLogo },
+      // { name: "SASS", logo: sassLogo },
       { name: "JavaScript", logo: javascriptLogo },
       { name: "React JS", logo: reactjsLogo },
       { name: "React Native", logo: reactjsLogo },
@@ -87,7 +87,7 @@ export const SkillsInfo = [
   {
     title: "Tools",
     skills: [
-      { name: "Git", logo: gitLogo },
+      // { name: "Git", logo: gitLogo },
       { name: "GitHub", logo: githubLogo },
       { name: "VS Code", logo: vscodeLogo },
       { name: "Postman", logo: postmanLogo },
